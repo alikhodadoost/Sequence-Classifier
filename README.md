@@ -11,3 +11,8 @@ python 3.4+
 pip install -r requirements.txt
 python app.py
 ```
+
+## Docker:
+```bash
+docker pull alikhodadoost/sequenceclassifier
+```
